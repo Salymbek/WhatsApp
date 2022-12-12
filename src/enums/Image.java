@@ -1,2 +1,5 @@
-package enums;public enum Image {
+package enums;
+
+public enum Image {
+    DEFAULT_IMAGE
 }
